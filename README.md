@@ -18,7 +18,7 @@ Explore the "My Awesome Warehouse" project, a cutting-edge inventory management 
 1. **Clone the repository:**
 
    ```bash
-git clone https://github.com/LambruAdrianGeorge/LambruAdrianGeorge.github.io.git
+git clone https://github.com/lambrugeorge/onlineWarehouse.git
 Open index.html in your preferred web browser.
 Technologies Used
 JavaScript
