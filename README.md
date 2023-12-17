@@ -1,5 +1,5 @@
 # LambruAdrianGeorge.github.io
-https://www.linkedin.com/in/lambru-adrian-georgian-0617a0280/
+(https://lambrugeorge.github.io/onlineWarehouse/)
 
 Welcome to my GitHub repository for Lambru Adrian Georgian's web projects.
 
