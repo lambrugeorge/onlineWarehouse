@@ -1,9 +1,8 @@
-# LambruAdrianGeorge.github.io
-(https://lambrugeorge.github.io/onlineWarehouse/)
+# My Awesome Warehouse 🚀
 
 Welcome to my GitHub repository for Lambru Adrian Georgian's web projects.
 
-## My Awesome Warehouse
+## Online Warehouse Demo
 
 Explore the "My Awesome Warehouse" project, a cutting-edge inventory management system crafted with JavaScript, HTML, CSS, and Bootstrap. This application showcases my proficiency in handling JavaScript objects, arrays, functions, and more.
 
@@ -18,17 +17,4 @@ Explore the "My Awesome Warehouse" project, a cutting-edge inventory management 
 1. **Clone the repository:**
 
    ```bash
-git clone https://github.com/lambrugeorge/onlineWarehouse.git
-Open index.html in your preferred web browser.
-Technologies Used
-JavaScript
-HTML5
-CSS
-Bootstrap
-Connect with Me
-Feel free to connect with me on LinkedIn for more updates on my projects and professional journey.
-
-HTML5
-CSS3
-JavaScript
-Bootstrap# onlineWarehouse
+   git clone https://github.com/lambrugeorge/onlineWarehouse.git
